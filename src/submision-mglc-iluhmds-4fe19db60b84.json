@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submision-mglc-iluhmds",
+  "private_key_id": "4fe19db60b84ec1c0c4fa146d1ce64122dc0a8f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9T7GdzG3aFiBr\n+YZ3o7eoO5uMMC2VhVoqgoWoSIXpC+FC4JvOuxTfyobvWWwf3GC/aNh8dNd3Ko/H\nDkc/M1CmNnNwBpg0qoftbHt6UVL+W/kW5BkPSIvMFM1b+7MJzcuiUZuBVLVVhXTk\nCoTTXLha2rpDgAN0Gq3AgcvJmWqkqPEoDN32eS/XJU5dBDvZbwTuBl7czYqfWRPu\ny0p8BwLlsAfwbMgyJOzVldG7m3n6bsGIdNS2BQ2PMSji/2V7GIKiHG/OMIvkZXSh\nNsKw4mFQ/JEp0VxXWrP5YCdkLdVtz+dzREtRvfeP/ZjeBPVa8QrvS+aaVgAjtXxj\nEozuVhezAgMBAAECggEALm0E2fXwWrNicBhZaa20tIUpuE94Xlq9qf8oWASxEl3f\neE8s5p3qmJdKUBhV89pPv6EuthbRYGAHsoFF57Hl7V0dIjP7z66idw9LmMuo1sgn\nZf26R406+2l+kzg+yAC4F657vFPRxI9eAy6xNERg0aciVrtmHWsNgVBTcbU1+fsn\nz0dUORCCSREoAMJ1rTQomjb5ZXmXFRogSuokkXuGjxeTiqTwnjTa6bwEdV0ZUhno\ndfZR4/wwyrLzDCRcaIiHIRmbpu69Pv4w8gH9MF6ydZGU4E4UgOr0RwUSRmZo2HwY\nRkF59+jpDD5SCIXzDy+tOOheHHFIOAphWmckCR2LwQKBgQD1HnMhTCs4rtWYzlq9\nkjRYmcst96hDK8Cl2mzUjdmsOS8oxQeUJ/r+UXzQmCy1qOArJZLk0KJWUeRc+d4K\nuWjh3DKntw3sh/YasEq+U4ijXBTb6+c/Wrvwy63MvevgTH9IrO0PuI1W9q5pTuN9\nkKrOSkzZX7K/abLMaBJpHUxcNQKBgQDFtwq1ZUqZWK27pKrrfPlWmMsgIaAsVJyM\nlOdTNm0tumwvy5AYFUpHvLEuObUglpIdVURwsAZBYzapAqAB/V7YTh7XwVbNBBLX\nMsE26lmRzJLuK+Z3/D8cFz+FqhHNZAH8ZVdbTjee3Dfk59HljM+o8qMxV3IejiJk\n+jpmEwURRwKBgQDZJXKEyv93JZtf1V8ZlY3997DBNia/6uCtjQTggBGXuskGaxW9\nsHVwGyxhdo4VGFgOoSiywAkwQzf1Df4grgQ2ImZVoZsaMZBaMFbmqQXhAlAQS7n+\nrBjWxvle6dkuSVZxQZB5XtsHcV0tOY/ayvAl9DiEUXz+iVq2LnQw3p2pCQKBgHyg\nOlHI/VLXwPsMeuhhKFHbkf4489u9ochDe+TJ49v1LIicCcIEeYPqfsyid3eJMaTn\nwHI/olHJFgVGsFFQwl4aL/rT1cD5Fl8rkPrqkXcDuoICjg2HpMgyJ0o7v2j15wKP\nZpcZIJo0Oc9CCN5m+eaGuzM46ag0850u1WzOBF21AoGAJTKQsmYT1EerJsOrSJEx\nWLBgfrcLFHwFlkaW70+bsJMQ3taWCsvVzNWylxzdMPqthGYTEjKpHbcdNvt7s+BD\nR/2DISHAAU+s9VgUuHQNMckMMDylnN3jtn3CPSwUxjxLYnlt/JqTIyndZiEJXR02\nxwhgBVK5Axs/ZqqByjlxmd8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore@submision-mglc-iluhmds.iam.gserviceaccount.com",
+  "client_id": "111797066681004332902",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore%40submision-mglc-iluhmds.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
